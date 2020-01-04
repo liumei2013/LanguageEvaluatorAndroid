@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Concordia IELTS Evaluator</string>
+    <string name="ielts_req">
+        The overall score of IELTS exam of applicants needs to be equal or above 6.5 and the scores
+        for writing and reading skills should not be below 6.0.\n\n
+        If your overall score is 6, and your reading and writing scores are at least 6, you will be
+        eligible for conditional admission. So you need to take an English course in the first
+        semester. Otherwise you have to retake the IELTS exam.\n\n
+        Thanks for choosing Concordia.
+    </string>
+</resources>
